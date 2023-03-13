@@ -1,0 +1,32 @@
+body{
+    background-image: url(./images/bg8.jpg);
+    background-size: cover;
+    
+}
+
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    
+    
+}
+.card-img-top{
+    height: 15rem;
+}
+.card-title{
+    text-align: center;
+}
+.btn{
+    margin-left:6rem;
+    width: 6rem;
+}
+.card{
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+.card-text{
+    height: 7rem;
+}

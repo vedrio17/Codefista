@@ -1,0 +1,25 @@
+body{
+  background-image: url(./images/bg8.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+
+}
+h1{
+  font-size: 90px;
+  color: white;
+  text-align: center;
+}
+section{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding-top: 80px;
+}
+.btn {
+  width: 200px;
+          height: 200px;
+          outline-style:initial;
+          border-radius: 100px;
+          cursor: pointer;
+}
